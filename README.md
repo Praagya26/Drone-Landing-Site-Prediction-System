@@ -10,9 +10,9 @@ A deep learning-based image classification system built using **TensorFlow/Keras
 
 - Predicts drone landing environments from aerial images
 - Classifies images into:
-  - 🛬 Runway
-  - ⚽ Football Field
-  - 🏙️ City
+  -  Runway
+  -  Football Field
+  -  City
 - Displays prediction confidence
 - Provides landing recommendation
 - Interactive Streamlit interface
@@ -108,13 +108,14 @@ streamlit run app.py
 ## Screenshots
 
 ### Home Page
-
-![Home Page](assets/home_page.png)
+<img width="1917" height="1023" alt="home_page" src="https://github.com/user-attachments/assets/bbc19917-d3f3-424b-9e44-3ee26800ce37" />
 
 ---
 
 ### Prediction Result
+<img width="1917" height="1028" alt="prediction_result 1" src="https://github.com/user-attachments/assets/34e24ce6-18c5-450b-b989-6c244ede32d3" />
+<img width="1918" height="1007" alt="prediction_result 2" src="https://github.com/user-attachments/assets/5e4c776c-9d34-4ef3-b42f-92884dcc528a" />
+<img width="1918" height="952" alt="prediction_result 3" src="https://github.com/user-attachments/assets/32f913f4-05c9-4a6f-be84-23efd9a73231" />
 
-![Prediction Result](assets/prediction_result 1.png)
-![Prediction Result](assets/prediction_result 2.png)
-![Prediction Result](assets/prediction_result 3.png)
+---
+
