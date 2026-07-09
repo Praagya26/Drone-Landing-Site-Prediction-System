@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+offline_packages/
+# Virtual Environment
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary
+*.log
+*.tmp
+
+# Archives
+*.zip
+*.rar
+
+# OS
+Thumbs.db
+.DS_Store
